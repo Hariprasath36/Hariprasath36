@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2><center>Hi! I'm Hariprasath R</center</h2></br>
-<h3>🌟 Welcome to My GitHub! 🌟
-Hey there! I'm glad you stopped by. Here, you'll find a collection of my coding adventures, experiments, and projects. Feel free to explore, learn, and collaborate. Let's create something awesome together! 🚀
-</h3>h3>
+<h3>🌟 Welcome to My GitHub! 🌟</h3></br>
+<h5>Hey there! I'm glad you stopped by. Here, you'll find a collection of my coding adventures, experiments, and projects. Feel free to explore, learn, and collaborate. Let's create something awesome together! 🚀
+</h5>
 <h5> Welcome to my profile you can visit my portfolio : https://itshariprasath.vercel.app/</h5>
 
 
