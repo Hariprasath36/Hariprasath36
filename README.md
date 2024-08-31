@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 style=text-center>Hi! I'm Hariprasath R</h2>
+<h2 styles=text-center>Hi! I'm Hariprasath R</h2>
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Hariprasath36&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
