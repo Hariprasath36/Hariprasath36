@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 
 
-<a href=#><img src="contributions.svg"></a>
+<!--<a href=#><img src="contributions.svg"></a>-->
 
 
