@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2><center>>Hi! I'm Hariprasath R</center</h2></br>
-<h2> Welcome to my profile you can visit my portfolio : https://itshariprasath.vercel.app/</h2>
+<h2><center>Hi! I'm Hariprasath R</center</h2></br>
+<h5> Welcome to my profile you can visit my portfolio : https://itshariprasath.vercel.app/</h5>
 
 
 <a href="#">
