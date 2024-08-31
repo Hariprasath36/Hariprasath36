@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2><center>Hi! I'm Hariprasath R</center</h2>
+<h2><center>Hey Guys!   I'm Hariprasath R</center</h2>
 <h3>🌟 Welcome to My GitHub! 🌟</h3>
 <h5>Hey there! I'm glad you stopped by. Here, you'll find a collection of my coding adventures, experiments, and projects. Feel free to explore, learn, and collaborate. Let's create something awesome together! 🚀
 </h5>
