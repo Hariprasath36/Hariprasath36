@@ -13,19 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h2><center>Hey Guys! I'm Hariprasath R</center</h2>
-<h3>🌟 Welcome to My GitHub! 🌟</h3>
-<h5>Hey there! I'm glad you stopped by. Here, you'll find a collection of my coding adventures, experiments, and projects. Feel free to explore, learn, and collaborate. Let's create something awesome together! 🚀
-</h5>
-<h5> Welcome to my profile you can visit my portfolio : https://itshariprasath.vercel.app/</h5>
-
-
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Hariprasath36&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Hariprasath36&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
 
 <img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Hariprasath36&theme=radical"/>
@@ -34,5 +21,21 @@ Here are some ideas to get you started:
 
 
 <!--<a href=#><img src="contributions.svg"></a>-->
+<h2><center>Hey Everyone! I'm Hariprasath R</center></h2>
+<h3>🌟 Welcome to My GitHub! 🌟</h3>
+<h5>
+  Hello and thanks for stopping by! Here, you'll find a collection of my coding adventures, experiments, and projects. Feel free to explore, learn, and collaborate. Let's create something amazing together! 🚀
+</h5>
+<h5>
+  Check out my portfolio for more about my work: <a href="https://itshariprasath.vercel.app/" target="_blank">My Portfolio</a>
+</h5>
+
+<a href="#" target="_blank">
+  <img height="200" align="center" src="https://my-stats-43gk.vercel.app/api?username=Hariprasath36&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" alt="GitHub Stats" />
+</a>
+<a href="#" target="_blank">
+  <img height="200" align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Hariprasath36&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" alt="Top Languages" />
+</a>
+
 
 
