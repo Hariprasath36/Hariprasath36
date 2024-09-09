@@ -1,11 +1,15 @@
 <!-- Profile Header -->
-<h2 align="center">Hey Guys! I'm Hariprasath R</h2>
-<h3 align="center">🌟 Welcome to My GitHub! 🌟</h3>
-<p align="center">
+<h2 align="center" style="color: #39ff14; background-color: #000000; padding: 10px; border-radius: 10px;">
+  Hey Guys! I'm Hariprasath R
+</h2>
+<h3 align="center" style="color: #ff007f; background-color: #000000; padding: 10px; border-radius: 10px;">
+  🌟 Welcome to My GitHub! 🌟
+</h3>
+<p align="center" style="color: #00eaff; background-color: #000000; padding: 10px; border-radius: 10px;">
   Hey there! I'm glad you stopped by. Here, you'll find a collection of my coding adventures, experiments, and projects. Feel free to explore, learn, and collaborate. Let's create something awesome together! 🚀
 </p>
-<p align="center">
-  Explore my portfolio: <a href="https://itshariprasath.vercel.app/" target="_blank">itshariprasath.vercel.app</a>
+<p align="center" style="color: #fffc00; background-color: #000000; padding: 10px; border-radius: 10px;">
+  Explore my portfolio: <a href="https://itshariprasath.vercel.app/" target="_blank" style="color: #fffc00;">itshariprasath.vercel.app</a>
 </p>
 
 <!-- Stats and Activity Section -->
@@ -26,7 +30,9 @@
 
 <!-- Animation Section -->
 <div align="center">
-  <h4>🎨 My Coding Animation</h4>
+  <h4 style="color: #ff007f; background-color: #000000; padding: 10px; border-radius: 10px;">
+    🎨 My Coding Animation
+  </h4>
   <a href="https://github.com/Hariprasath36" target="_blank">
     <img src="https://raw.githubusercontent.com/Hariprasath36/Hariprasath36/main/assets/github.gif" alt="Coding Animation" width="300" />
   </a>
