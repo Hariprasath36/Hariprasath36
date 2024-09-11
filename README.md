@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Gokulakrishnan M</h1>
+<h1 align="center">Hi, I'm Hariprasath R</h1>
 
 <p align="center">
-	<a href="https://github.com/gokul-1998">
-		<img src="https://komarev.com/ghpvc/?username=gokul-1998&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-1998" />
+	<a href="https://github.com/Hariprasath36">
+		<img src="https://komarev.com/ghpvc/?username=Hariprasath36&label=Profile%20views&color=0e75b6&style=flat" alt="Hariprasath36" />
 	</a>
-	<a href="https://github.com/gokul-1998">
-		<img src="https://img.shields.io/github/followers/gokul-1998?label=Followers" alt="gokul-1998" />
+	<a href="https://github.com/Hariprasath36">
+		<img src="https://img.shields.io/github/followers/Hariprasath36?label=Followers" alt="Hariprasath36" />
 	</a>
 </p>
 <br/>
 <p align="center">
-	<a href="https://github.com/gokul-1998">
+	<a href="https://github.com/Hariprasath36">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;A+passionate+student;Competitive+Programmer;Critical+Thinker;Always%20Crafting%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
