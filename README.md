@@ -21,6 +21,12 @@
     <img height="200" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Hariprasath36&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
   </a>
 </div>
+<!-- Streak and Trophies Section -->
+<div align="center" style="background-color: #121212; padding: 10px; border-radius: 10px;">
+  <img height="202" src="https://github-readme-streak-stats.herokuapp.com?user=Hariprasath36&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img height="202" src="https://github-profile-trophy.vercel.app/?username=Hariprasath36&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=3" />
+</div>
+
 
 <!-- Streak and Trophies Section 
 <div align="center" style="background-color: #121212; padding: 10px; border-radius: 10px;">
