@@ -29,7 +29,6 @@
   <img height="202" src="https://github-profile-trophy.vercel.app/?username=Hariprasath36&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=3" />
 </div>
 
-
 <!-- Animation Section -->
 <div align="center" style="background-color: #121212; padding: 10px; border-radius: 10px;">
   <h4 style="color: #ff007f; background-color: #121212; padding: 10px; border-radius: 10px;">
@@ -39,3 +38,16 @@
     <img src="https://raw.githubusercontent.com/Hariprasath36/Hariprasath36/main/assets/github.gif" alt="Coding Animation" width="300" />
   </a>
 </div>
+
+<!-- Contribution Snake -->
+<div align="center" style="background-color: #121212; padding: 10px; border-radius: 10px;">
+  <h4 style="color: #fffc00; background-color: #121212; padding: 10px; border-radius: 10px;">
+    🐍 Watch my contribution snake 🐍
+  </h4>
+  <img src="https://github.com/Hariprasath36/Hariprasath36/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</div>
+
+<!-- Footer Section -->
+<p align="center" style="color: #39ff14; background-color: #121212; padding: 10px; border-radius: 10px;">
+  Thank you for visiting! 🙏 Let's connect and collaborate. 💻
+</p>
