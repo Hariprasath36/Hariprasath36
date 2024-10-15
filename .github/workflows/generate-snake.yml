@@ -1,0 +1,31 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs at 5:00 AM UTC every day
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks out your repository under $GITHUB_WORKSPACE, so the job can access it
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Generates the snake animation
+      - name: Generate snake animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Hariprasath36
+          outputs: dist/snake.svg
+
+      # Push the generated snake.svg to the output branch
+      # The output branch should be the one where the snake.svg is located (e.g., 'output')
+      - name: Push snake animation to the output branch
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: output
+          force: true
+          file: dist/snake.svg
