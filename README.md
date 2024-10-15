@@ -29,9 +29,12 @@
 </div>
 # My GitHub Snake Animation
 
-![Snake Animation](https://raw.githubusercontent.com/Hariprasath36/Hariprasath36/output/github-snake.svg)
-
-
+<div align="center" style="background-color: #121212; padding: 10px; border-radius: 10px;">
+  <h4 style="color: #00eaff; background-color: #121212; padding: 10px; border-radius: 10px;">
+    🎨 My Snake Animation
+  </h4>
+  ![Snake Animation](https://raw.githubusercontent.com/Hariprasath36/Hariprasath36/output/github-snake.svg)
+</div>
 
 
 <!-- Animation Section -->
