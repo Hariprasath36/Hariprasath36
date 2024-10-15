@@ -27,8 +27,11 @@
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Hariprasath36&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <img height="200" src="https://github-profile-trophy.vercel.app/?username=Hariprasath36&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=3" />
 </div>
-### Snake Animation
-![Snake animation](https://github.com/Hariprasath36/hariprasath/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake Animation Section -->
+<div align="center" style="background-color: #121212; padding: 10px; border-radius: 10px;">
+  <img src="https://github.com/Hariprasath36/Hariprasath36/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 
 
 <!-- Animation Section -->
