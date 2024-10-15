@@ -18,14 +18,15 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v2
         with:
-          github_user_name: Hariprasath36
+          github_user_name: Hariprasath36  # Replace with your GitHub username
           outputs: dist/snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Required for authentication
 
       # Push the generated snake.svg to the output branch
-      # The output branch should be the one where the snake.svg is located (e.g., 'output')
       - name: Push snake animation to the output branch
         uses: ad-m/github-push-action@v0.6.0
         with:
-          branch: output
+          branch: output  # Specify the branch where the snake will be pushed
           force: true
           file: dist/snake.svg
