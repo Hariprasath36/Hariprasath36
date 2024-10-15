@@ -27,22 +27,21 @@
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Hariprasath36&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <img height="200" src="https://github-profile-trophy.vercel.app/?username=Hariprasath36&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=3" />
 </div>
-# My GitHub Snake Animation
+
+
+
+
 
 <div align="center" style="background-color: #121212; padding: 10px; border-radius: 10px;">
   <h4 style="color: #00eaff; background-color: #121212; padding: 10px; border-radius: 10px;">
     🎨 My Snake Animation
   </h4>
-  ![Snake Animation](https://raw.githubusercontent.com/Hariprasath36/Hariprasath36/output/github-snake.svg)
+  <img src="https://raw.githubusercontent.com/Hariprasath36/Hariprasath36/output/github-snake.svg" alt="Snake Animation" width="900" />
 </div>
 
 
-<!-- Animation Section -->
-<div align="center" style="background-color: #121212; padding: 10px; border-radius: 10px;">
-  <h4 style="color: #00eaff; background-color: #121212; padding: 10px; border-radius: 10px;">
-    🎨 My Coding Animation
-  </h4>
-  <a href="https://github.com/Hariprasath36" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hariprasath36/Hariprasath36/main/assets/github.gif" alt="Coding Animation" width="300" />
-  </a>
-</div>
+<!-- ![Snake Animation](https://raw.githubusercontent.com/Hariprasath36/Hariprasath36/output/github-snake.svg)
+ -->
+
+
+
