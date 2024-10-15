@@ -14,6 +14,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Create the dist directory if it doesn't exist
+      - name: Create dist directory
+        run: mkdir -p dist
+
       # Generates the snake animation
       - name: Generate snake animation
         uses: Platane/snk@v2
