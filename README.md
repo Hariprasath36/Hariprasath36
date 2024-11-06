@@ -9,7 +9,7 @@
   Hey there! I'm glad you stopped by. Here, you'll find a collection of my coding adventures, experiments, and projects. Feel free to explore, learn, and collaborate. Let's create something awesome together! 🚀
 </p>
 <p align="center" style="color: #fffc00; background-color: #121212; padding: 10px; border-radius: 10px;">
-  Explore my portfolio: <a href="[https://itshariprasath.vercel.app/](https://its-hariprasath-portfolio.vercel.app/)" target="_blank" style="color: #fffc00;">itshariprasath.vercel.app</a>
+  Explore my portfolio: <a href="https://its-hariprasath-portfolio.vercel.app/" target="_blank" style="color: #fffc00;">itshariprasath.vercel.app</a>
 </p>
 
 # 💻 Tech Stack:
